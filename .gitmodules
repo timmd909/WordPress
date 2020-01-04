@@ -1,6 +1,3 @@
 [submodule "wp-content/themes/tim-doerzbacher-wp-theme"]
 	path = wp-content/themes/tim-doerzbacher-wp-theme
 	url = git@github.com:timmd909/tim-doerzbacher-wp-theme.git
-[submodule "wp-content/themes/Bootstrap-4-on-WordPress"]
-	path = wp-content/themes/Bootstrap-4-on-WordPress
-	url = git@github.com:timmd909/Bootstrap-4-on-WordPress.git
