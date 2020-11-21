@@ -4,3 +4,6 @@
 [submodule "wp-content/themes/tim-doerzbacher-wp-theme"]
 	path = wp-content/themes/tim-doerzbacher-wp-theme
 	url = https://github.com/timmd909/tim-doerzbacher-wp-theme.git
+[submodule "wp-content/plugins/wordpress-importer"]
+	path = wp-content/plugins/wordpress-importer
+	url = https://github.com/WordPress/wordpress-importer.git
